@@ -19,6 +19,6 @@ Through these efforts, SparkAI aims to empower individuals to discover their pot
 
 **SparkAI on Social Media**
 
-LinkedIn: https://www.linkedin.com/showcase/sparkai-social\
+LinkedIn: https://www.linkedin.com/showcase/sparkai-social \
 Medium: Coming soon\
 WhatsApp: Coming soon
