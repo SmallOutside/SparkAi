@@ -18,6 +18,7 @@ Join our Discord Community: https://discord.gg/TfQrFNhY2D
 Through these efforts, SparkAI aims to empower individuals to discover their potential and connect deeply with others, paving the way for a future of collaborative innovation and shared success.
 
 **SparkAI on Social Media**
-LinkedIn: https://www.linkedin.com/showcase/sparkai-social
-Medium: Coming soon
+
+LinkedIn: https://www.linkedin.com/showcase/sparkai-social\
+Medium: Coming soon\
 WhatsApp: Coming soon
