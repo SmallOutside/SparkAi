@@ -1,4 +1,6 @@
-# Welcome to SparkAi - AI for self-discovery and deeper human connection.
+# Welcome to SparkAI - AI for self-discovery and deeper human connection.
+
+Join our Discord Community: https://discord.gg/TfQrFNhY2D
 
 **SparkAI** is an initiative by SmallOutside.com aimed at harnessing artificial intelligence to foster personal growth and meaningful human connections. This project focuses on two core objectives:
 
@@ -14,3 +16,8 @@
 - **Support for Changemakers:** Acceleration of outcomes for individuals and groups dedicated to making significant positive changes in society.
 
 Through these efforts, SparkAI aims to empower individuals to discover their potential and connect deeply with others, paving the way for a future of collaborative innovation and shared success.
+
+**SparkAI on Social Media**
+LinkedIn: https://www.linkedin.com/showcase/sparkai-social
+Medium: Coming soon
+WhatsApp: Coming soon
